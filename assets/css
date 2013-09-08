@@ -1,4 +1,4 @@
-body{width:4in;margin:auto;font: 0.1667in Georgia;padding:1em 0em;color:#444}
+body{width:3.75in;margin:auto;font:0.1667in Georgia;padding:1em 0em;color:#444}
 h1{font-size:0.375in;font-weight:normal}
 .crumbs{display:table;width:100%}
 .crumbwrapper{display:table-row;border-collapse:collapse}
