@@ -11,5 +11,4 @@ h1{font-size:0.375in;font-weight:normal}
 .timestamp{color:#AAA;font-style:italic;font-size:0.125in;font-family:monospace}
 .timestamp:before{content:'@ '}
 .post .permalink a{font-variant:small-caps}
-.nowrap{white-space:nowrap}
 hr{border-width:1px 0px 0px 0px;border-style:solid;color:#999}
