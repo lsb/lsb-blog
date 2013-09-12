@@ -1,0 +1,36 @@
+<p>My grandmother turns 90 in under a month. She currently has a flip phone that has been giving her problems, so I thought my birthday present would be a new phone.</p>
+
+<p>
+Design constraints:<ul>
+<li>Poor mobility</li>
+<li>Poor dexterity</li>
+<li>Limited interaction with far-away relatives</li>
+<li>Low mental stimulation</li>
+<li>No residential wi-fi</li>
+</ul>
+She would be well served by:<ul>
+<li>a smartphone</li>
+<li>unlimited cellular data</li>
+<li>a front-facing camera</li>
+<li>Skype</li>
+<li>a rear camera</li>
+<li>links to family-wide photo galleries</li>
+<li>auto-upload for any photo</li>
+<li>large icons / simplified launcher</li>
+<li>maybe a drawing app</li>
+</p>
+
+<p>
+Potential implementations:<ul>
+<li>Android Nexus 4 8GB, whatever Virgin Mobile has on offer</li>
+<li>the T-Mo $30/mo unlimited data plan, the VM $35/mo unlimited data plan</li>
+<li>Dropbox, to auto-upload any camera photos</li>
+<li>IFTTT, to auto-post any uploaded photos from Dropbox to Flickr/Insta/Snap/Smug/Face/&amp;c.</li>
+<li>a link to a group photo gallery on the home screen</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.gabetaubman.giganticon">Giganticon</a> from Gabe Taubman for large app icons[/widgets]</li>
+(The Jitterbug smartphone seems a bit too limited, as an arbitrary computation device.)
+</p>
+
+<p>What do you think?
+Suggest something to me on Twitter.
+</p>
