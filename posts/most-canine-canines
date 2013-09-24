@@ -1,0 +1,3 @@
+<p>On page 5 of <a href="http://xenon.stanford.edu/~pgolle/papers/dogcat.pdf">a paper about busting species-selection captchas</a> (pick all the dogs/cats in a photo matrix), the method of generating SVMs generates, as a byproduct, which cat photos in the corpus are most feline and most canine, and which dog photos are the most canine and feline.</p>
+
+<p>The most cat-like cat photo is a pair of cats, in a cage indoors, one atop the other, tails tucked in.</p>
