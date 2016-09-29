@@ -1,0 +1,9 @@
+<p>This blog is still compiled in <a href="https://github.com/lsb/blog.sh/"><code>blog.sh</code></a>.</p>
+
+<p>I just wanted a place to record some thoughts. I do not have weird formatting requirements. I do not have large needs.</p>
+
+<p>After trying many other blog compilers, and failing to halfheartedly turn the knobs the right way, I resorted back to a few bash scripts that concatenate files.</p>
+
+<p>I did nothing to prevent any bitrot, but it worked as well as it did when I last blogged. Kudos to GNU/Linux coreutils and the backwards-compatibility of <code>stat</code>/<code>date</code>/<code>tr</code>/<code>echo</code>/<code>cat</code>/<code>mkdir</code>/<code>rm</code>/<code>mv</code>/<code>dirname</code>.</p>
+
+<p>In related news, I went to the beach Sunday with only sneakers, soaked them in saltwater, washed them out, waited until the morning to see if my shoes were wearable, confirmed that they were still wet with freshwater, wondered about what to do, realized that I had not yet thrown out my old shoes, tried them on, realized to my chagrin that I had particularly disliked them, realized to my delight that I knew many of the pitfalls of those shoes (gripless sole, toe-holes in the uppers, laces long enough to catch in my derailleur), headed out of the house all the same, met a few acquaintances, and enjoyed the day.</p>
